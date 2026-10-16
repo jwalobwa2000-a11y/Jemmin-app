@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "772823264115",
+    "project_id": "jemmin",
+    "storage_bucket": "jemmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772823264115:android:bcb79ac9ceb52358ecf306",
+        "android_client_info": {
+          "package_name": "com.jemmin.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIx1pOIrzzSNzbpRWaFPujqU5Bx0jb4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772823264115:android:75f22826f68bad9eecf306",
+        "android_client_info": {
+          "package_name": "com.jemmin.cleaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIx1pOIrzzSNzbpRWaFPujqU5Bx0jb4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772823264115:android:c26817030ea5bcd2ecf306",
+        "android_client_info": {
+          "package_name": "com.jemmin.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIx1pOIrzzSNzbpRWaFPujqU5Bx0jb4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
